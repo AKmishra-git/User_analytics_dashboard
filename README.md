@@ -125,5 +125,4 @@ Then start the backend with `NODE_ENV=production`, and it'll serve both the dash
 
 ## Live demo
 
-- Dashboard: `[add your deployed URL here]`
-- Demo tracking page: `[add your deployed URL here]/demo.html`
+- Dashboard: https://user-analytics-dashboard.onrender.com/
